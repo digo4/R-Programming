@@ -1,10 +1,8 @@
-### **Getting Started**
-```{r}
+#Getting Started
 #Here are some examples:
 10+20 #addition
-```
-Assigning variable using `=` or `<-` - assignment operators. 
-```{r}
+
+#Assigning variable using `=` or `<-` - assignment operators. 
 a = 20-34 #subtraction
 a
 b = 3*2 #multiplication
