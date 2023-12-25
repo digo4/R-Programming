@@ -27,7 +27,3 @@ There are three steps you need to follow in a sequential order:
    After finishing the installation, 
 4. **Install RStudio**
 
-```{r}
-#Here are some examples:
-10+20 #addition
-```
