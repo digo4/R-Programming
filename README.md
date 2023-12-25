@@ -23,4 +23,6 @@ There are three steps you need to follow in a sequential order:
      `$ sudo pacman -S r `    - For Arch or Manjaro
                                                                                              
      `$ sudo zypper install R-base R-base-devel`    - For OpenSUSE
+
+   After finishing the installation, 
 4. **Install RStudio**
