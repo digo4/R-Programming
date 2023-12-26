@@ -11,4 +11,8 @@ c = 45/5  #division
 c
 42^10 #power 
 
-```
+#The concatenate function `c()`is used a lot in R, also for expressing vectors.
+print(c(a,b,c))
+# Without c() it just prints the first variable
+print(a,b,c)
+
