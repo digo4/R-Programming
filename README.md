@@ -26,4 +26,30 @@ There are three steps you need to follow in a sequential order:
 
    After finishing the installation, 
 4. **Install RStudio**
+   To install R Studio, you can follow these general steps. Please note that the specific steps may vary slightly depending on your operating system (Windows, macOS, or Linux).
+
+   - **For Windows:**
+   Download R Studio from the official R Studio website: https://www.rstudio.com/products/rstudio/download/ Choose the free version (RStudio Desktop) that corresponds to your 
+   operating system. Follow the installation instructions.
+   - **For macOS:**
+     Download R Studio from the official R Studio website: https://www.rstudio.com/products/rstudio/download/  Choose the free version (RStudio Desktop) that corresponds to your 
+     macOS version. Follow the installation instructions.
+   - **For Linux:**
+     Install Dependencies for R Studio:
+     R Studio has additional dependencies that you may need to install. For Debian/Ubuntu, you can use the following command:
+
+     `sudo apt-get install gdebi-core`
+
+     Download R Studio from the official R Studio website: https://www.rstudio.com/products/rstudio/download/
+     Choose the free version (RStudio Desktop) that corresponds to your distribution.
+     Open the terminal, navigate to the directory containing the downloaded file, and install it using the following command:
+
+     `sudo gdebi rstudio-x.yy.zzz-amd64.deb`
+
+After Installation:
+Once R Studio is installed, you can open it, and it will prompt you to choose the version of R that you want to use. It will automatically detect the version you installed earlier.
+
+You can then start working with R and R Studio for your statistical and data analysis tasks.
+
+Remember to check the official R Studio documentation for any additional details or troubleshooting: https://support.rstudio.com/hc/en-us
 
