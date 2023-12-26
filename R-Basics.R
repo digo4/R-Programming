@@ -16,3 +16,10 @@ print(c(a,b,c))
 # Without c() it just prints the first variable
 print(a,b,c)
 
+#To locate the list of all the variables used so far, use the `ls()` command.
+ls()
+
+#To remove a variable from the list , use `rm()` function.
+rm(a) #removes the variable a. We can reconfirm that a has been removed by rechecking ls().
+
+
