@@ -22,4 +22,5 @@ ls()
 #To remove a variable from the list , use `rm()` function.
 rm(a) #removes the variable a. We can reconfirm that a has been removed by rechecking ls().
 
+#
 
